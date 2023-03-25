@@ -1,0 +1,16 @@
+{
+  "role": {
+    "name": "TP_DATA_MANAGEMENT_SCHEMA_001_EXTERNAL_ACCESS",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "DELETE",
+          "SELECT",
+          "SELECT METADATA",
+          "UPDATE",
+          "INSERT"
+        ]
+      }
+    ]
+  }
+}

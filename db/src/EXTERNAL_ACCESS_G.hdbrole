@@ -1,0 +1,16 @@
+{
+  "role": {
+    "name": "TP_DATA_MANAGEMENT_SCHEMA_001_EXTERNAL_ACCESS_G#",
+    "schema_privileges": [
+      {
+        "privileges_with_grant_option": [
+          "DELETE",
+          "INSERT",
+          "SELECT",
+          "SELECT METADATA",
+          "UPDATE"
+        ]
+      }
+    ]
+  }
+}
